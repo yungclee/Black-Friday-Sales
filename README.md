@@ -1,9 +1,7 @@
 # Black-Friday-Sales
 
 Black Friday is the Friday following by the
-Thanksgiving, celebrated each year in the third
-Thursday in November, in the United State.
-Once every year, retailers and store owners offer
+Thanksgiving. Retailers and store owners offer
 great promotions for almost every items to boost
 the sale amount and take this chance to clear
 inventory. For buyers, this is the deal of the year
